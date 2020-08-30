@@ -222,14 +222,6 @@ nav {
 	}
 }
 
-.webp .check.active:before {
-	background: url(../img/icons/check.webp) center no-repeat;
-}
-
-.webp .option.active:before {
-	background: url(../img/icons/option.webp) center no-repeat;
-}
-
 .webp .header {
 	background-image: url(../img/01.webp);
 }
